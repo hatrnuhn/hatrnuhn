@@ -1,4 +1,4 @@
-### Hi there, I'm Yusron 👋
+### Hi y'all, I'm Yusron 👋
 
 <!--
 **hatrnuhn/hatrnuhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - ✍ I'm new into coding and back-end development
 - 🦫 I'm currently learning Go
-- 📬 You can reach me out on [Instagram](https://instagram.com/hatrnuhn)
+- 📬 You can connect with me on [LinkedIn](https://linkedin.com/in/yusron-na-im-7b1216222/) or [Instagram](https://instagram.com/hatrnuhn)
