@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - ✍ I'm new into coding and back-end development
 - 🦫 I'm currently learning Go
-- 📬 You can reach me out on [Instagram](instagram.com/hatrnuhn)
+- 📬 You can reach me out on [Instagram](https://instagram.com/hatrnuhn)
