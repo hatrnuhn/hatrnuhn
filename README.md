@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ✍ I'm new into coding and back-end development
-- 🦫 I'm currently learning Go
+- 🦫 I'm currently learning Go and Node.js
 - 📬 You can connect with me on [LinkedIn](https://linkedin.com/in/yusron-na-im-7b1216222/) or [Instagram](https://instagram.com/hatrnuhn)
