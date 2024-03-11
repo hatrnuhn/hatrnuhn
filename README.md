@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ✍ I'm new into coding and back-end development
-- 🦫 I'm currently learning Go and Node.js
+- ✍ I'm new into coding and web development
+- 🦫 I'm currently learning HTML, CSS, and JavaScript
 - 📬 You can connect with me on [LinkedIn](https://linkedin.com/in/yusron-na-im-7b1216222/) or [Instagram](https://instagram.com/hatrnuhn)
