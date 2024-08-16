@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - ✍ I'm new into coding and web development
 - 🕯 I'm currently learning HTML, CSS, and JavaScript
-- 📬 You can connect with me on [LinkedIn](https://linkedin.com/in/yusron-na-im-7b1216222/) or [Instagram](https://instagram.com/hatrnuhn)
+- 📬 You can connect with me on [LinkedIn](https://linkedin.com/in/yusron-na-im-7b1216222/)
