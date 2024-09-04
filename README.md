@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ✍ I'm new into coding and web development
-- 🕯 I'm currently learning HTML, CSS, and JavaScript
+- ✍ I build in the Web
+- 🕯 I'm currently learning React and Next.js
 - 📬 You can connect with me on [LinkedIn](https://linkedin.com/in/yusron-na-im-7b1216222/)
