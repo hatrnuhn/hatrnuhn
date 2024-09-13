@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ✍ I build in the Web
-- 🕯 I'm currently learning React and Next.js
+- 🕯 I'm currently learning React with Remix 
 - 📬 You can connect with me on [LinkedIn](https://linkedin.com/in/yusron-na-im-7b1216222/)
